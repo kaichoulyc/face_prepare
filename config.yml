@@ -1,0 +1,8 @@
+ent_folder: /fast_data/Faces/Unknown_faces
+out_folder: /fast_data/rew_faces/unknown
+mode: unknown
+
+name_det: mnet.25
+epoch_det: 0
+gpu: 0
+size: 300
